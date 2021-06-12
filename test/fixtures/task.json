@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "title":"test",
+  "price": 1,
+  "publisher": {
+    "name": "Jhon Hopkins Hospital",
+    "id": 152123,
+    "is_verified": true
+  }
+}
